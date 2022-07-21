@@ -1,1 +1,1 @@
-axzxzxdsdsdsfsffefe
+This repo is for my learning VerilogHDL forFPGA.

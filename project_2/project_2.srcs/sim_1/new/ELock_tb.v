@@ -60,6 +60,18 @@ module ELock_tb();
         #`P
         num<=3;
         #`P
+        rst<=1;
+        #`P
+        rst<=0;
+        #`P
+        num<=4;
+        #`P
+        num<=1;
+        #`P
+        num<=2;
+        #`P
+        num<=3;
+        #`P
         num<=4;
         #`P
         num<=9;
