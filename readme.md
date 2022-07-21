@@ -1,1 +1,1 @@
-This repo is for my learning VerilogHDL forFPGA.
+This repo is for my learning VerilogHDL for FPGA.
