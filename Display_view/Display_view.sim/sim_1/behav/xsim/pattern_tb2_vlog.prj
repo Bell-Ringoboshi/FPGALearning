@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Display_view.srcs/sources_1/new/pattern.v" \
+"../../../../Display_view.srcs/sources_1/new/pckgen.v" \
+"../../../../Display_view.srcs/sources_1/new/syncgen.v" \
+"../../../../../../Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/SIM/pattern_tb2.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

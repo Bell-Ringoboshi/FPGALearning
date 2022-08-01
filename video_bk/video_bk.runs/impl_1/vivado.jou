@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jul 26 18:33:54 2022
+# Process ID: 25508
+# Current directory: C:/Users/Rintaro Sanada/verilog/video_bk/video_bk.runs/impl_1
+# Command line: vivado.exe -log pattern.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source pattern.tcl -notrace
+# Log file: C:/Users/Rintaro Sanada/verilog/video_bk/video_bk.runs/impl_1/pattern.vdi
+# Journal file: C:/Users/Rintaro Sanada/verilog/video_bk/video_bk.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source pattern.tcl -notrace

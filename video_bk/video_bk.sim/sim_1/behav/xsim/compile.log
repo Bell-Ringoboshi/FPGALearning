@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/pattern.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pattern
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/pckgen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pckgen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/syncgen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module syncgen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/SIM/pattern_tb2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pattern_tb2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rintaro Sanada/verilog/video_bk/video_bk.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

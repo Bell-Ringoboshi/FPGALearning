@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/pattern.v,1658821114,verilog,,C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/pckgen.v,C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/vga_param.vh,pattern,,,../../../../../../Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL,,,,,
+C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/pckgen.v,1658821114,verilog,,C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/syncgen.v,,pckgen,,,../../../../../../Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL,,,,,
+C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/syncgen.v,1658821114,verilog,,C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/SIM/pattern_tb2.v,C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/vga_param.vh,syncgen,,,../../../../../../Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL,,,,,
+C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL/vga_param.vh,1658821114,verilog,,,,,,,,,,,,
+C:/Users/Rintaro Sanada/Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/SIM/pattern_tb2.v,1658825629,verilog,,,,pattern_tb2,,,../../../../../../Downloads/XilinxFPGA_SE/Cora_Z7-07S/dai2-3sho/pattern/HDL,,,,,
+C:/Users/Rintaro Sanada/verilog/video_bk/video_bk.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
