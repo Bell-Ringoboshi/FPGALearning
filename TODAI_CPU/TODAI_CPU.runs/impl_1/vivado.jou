@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Aug  2 16:47:33 2022
+# Process ID: 17760
+# Current directory: C:/Users/Rintaro Sanada/verilog/TODAI_CPU/TODAI_CPU.runs/impl_1
+# Command line: vivado.exe -log computer.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source computer.tcl -notrace
+# Log file: C:/Users/Rintaro Sanada/verilog/TODAI_CPU/TODAI_CPU.runs/impl_1/computer.vdi
+# Journal file: C:/Users/Rintaro Sanada/verilog/TODAI_CPU/TODAI_CPU.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source computer.tcl -notrace
