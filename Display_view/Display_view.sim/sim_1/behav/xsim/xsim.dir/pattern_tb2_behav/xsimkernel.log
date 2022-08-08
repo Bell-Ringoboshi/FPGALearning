@@ -2,3 +2,6 @@ Running: xsim.dir/pattern_tb2_behav/xsimk.exe -simmode gui -wdb pattern_tb2_beha
 Design successfully loaded
 Design Loading Memory Usage: 6568 KB (Peak: 6568 KB)
 Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 15796 KB (Peak: 15796 KB)
+Simulation CPU Usage: 78671 ms
